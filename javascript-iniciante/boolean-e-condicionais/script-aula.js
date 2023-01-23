@@ -33,7 +33,7 @@ if('') // ou "" ou ``
 
 //todo o resto é truthy
 
-//OPERADO LÓGICO DE NEGACAO! ****** 
+//OPERADORES LÓGICO DE NEGAÇÃO! ****** 
 // o operado !, nega uma operacao booleana. Ou seja, !true é igaul a false
 
 //Truthy
@@ -46,7 +46,7 @@ if(!!'') //false
 
 // Voce posde outilizar o !! para verificar se uma expressao é truthy ou falsy
 
-//Operdaores de comparação ******
+//OPERADORES DE COMPARAÇÃO ******
 // Vão sempre retornar um valor booleano.
 
 10 > 5; //true
