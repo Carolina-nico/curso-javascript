@@ -29,5 +29,3 @@ var pesoPorDois = peso / 2; // NaN (Not a Number)
 
 
 console.log(peso);
-
-// EXERCICIO 4 **********  
