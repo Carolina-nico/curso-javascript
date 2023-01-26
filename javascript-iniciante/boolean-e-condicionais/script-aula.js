@@ -33,8 +33,13 @@ if ('') // ou "" ou ``
 
    //todo o resto é truthy
 
+<<<<<<< HEAD
    //OPERADORES LÓGICO DE NEGAÇÃO! ****** 
    // o operador !, nega uma operacao booleana. Ou seja, !true é igual a false
+=======
+//OPERADORES LÓGICO DE NEGAÇÃO! ****** 
+// o operado !, nega uma operacao booleana. Ou seja, !true é igaul a false
+>>>>>>> e900a73fd27bc45331f52afef24f744ea06601aa
 
    //Truthy
    if (!true) //false
@@ -46,14 +51,20 @@ if ('') // ou "" ou ``
 
                      // Voce pode utilizar o !! para verificar se uma expressao é truthy ou falsy
 
+<<<<<<< HEAD
                      //OPERADORES DE COMPARAÇÃO ******
                      // Vão sempre retornar um valor booleano.
+=======
+//OPERADORES DE COMPARAÇÃO ******
+// Vão sempre retornar um valor booleano.
+>>>>>>> e900a73fd27bc45331f52afef24f744ea06601aa
 
                      10 > 5; //true
 5 > 10; //false
 20 < 5; //false
 10 <= 10; //true
 10 >= 11; //false
+<<<<<<< HEAD
 
 // O == faz uma comparação não tão estrita e o === faz uma comparação estrita, ou seja, o tipo de dado deve ser o mesmo quando usamos ===
 
@@ -112,3 +123,5 @@ switch (corFavorita) {
    case 'Amarelo':
       console.log('Olhe para o sol.');
 }
+=======
+>>>>>>> e900a73fd27bc45331f52afef24f744ea06601aa
