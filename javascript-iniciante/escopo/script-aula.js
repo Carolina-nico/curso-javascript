@@ -95,4 +95,4 @@ ano = 2020;
 ano++;
 console.log(ano); // 2021
 
-//let ano = 2021; // erro, redeclarou a const
+//let ano = 2021; // erro, redeclarou a variavél
